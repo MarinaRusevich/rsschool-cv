@@ -26,4 +26,4 @@ function myPow(a) {
     - *Website development basics (BELHARD ACADEMY)*
     - *Modern Frontend development (BELHARD ACADEMY)*
 ## English
-B1 (writing level is higher, about B2)
+**B1** (writing level is higher, about **B2**)
